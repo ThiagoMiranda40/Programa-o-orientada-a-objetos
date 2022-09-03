@@ -38,4 +38,11 @@ public class Carro {
             return capacidadeTanque;
         }
     
+    // Método para calcular total para ecnher o tanque (usar o tipo double que pode representar números fracionados e também mais casas decimais)
+
+        double calcularEncherTanque (double valorCombustivel) {
+            return capacidadeTanque * valorCombustivel;
+        }
+        
+
 }
