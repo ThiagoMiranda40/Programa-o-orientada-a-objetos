@@ -3,7 +3,6 @@
 public class Carro {
     String cor;
     String modelo;
-    
     int capacidadeTanque
 
     // Construtor aqui
@@ -19,7 +18,8 @@ public class Carro {
             return cor;
         }
 
-    // Métodos Get e Set do Modelo (Set serve para definir, ou seja, setar algo, e o get serve para pegar, ou seja, retornar algo)
+    // Métodos Get e Set do Modelo (Set serve para definir, ou seja, setar ou colocar um valor no atributo, e o get serve para pegar, ou seja, retornar algo)
+
         void SetModelo (String modelo) {
             this.modelo = modelo;
         }
@@ -28,5 +28,14 @@ public class Carro {
             return modelo;
         }
 
+    // Get e Set do Tanque
+
+        void SetCapacidadeTanque (int CapacidadeTanque) {
+            this.capacidadeTanque = capacidadeTanque;
+        }
+
+        Int GetCapacidadeTanque () {
+            return capacidadeTanque;
+        }
     
 }
