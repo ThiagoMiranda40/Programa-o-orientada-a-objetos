@@ -8,7 +8,7 @@ public class RodarAplicacao {
 
         Funcionario funcionario = new Funcionario();
 
-        //Realizando os Upcasts
+        //Realizando os Upcasts.
 
         Funcionario gerente = new Gerente();
         Funcionario vendedor = new Vendedor();
