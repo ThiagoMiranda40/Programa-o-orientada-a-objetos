@@ -1,5 +1,5 @@
 Projeto para exercícios da Aula 3 de Orientação a Objetos.
-// Testando sincronização de pastas entre o GitHub e o VSCode
+// Testando sincronização de pastas entre o GitHub e o VSCode 07 de setembro.
 
 ## Getting Started
 
