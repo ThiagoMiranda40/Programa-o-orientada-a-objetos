@@ -1,5 +1,7 @@
 package ExercíciosRelacoes;
 
-public class Carro {
+// Classe exemplo para exercício de herança
+
+public class Carro extends Veículo {
     
 }
