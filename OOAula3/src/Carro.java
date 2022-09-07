@@ -1,9 +1,13 @@
-//Exercício criando a Classe Carro
+//Exercício criando a Classe Carro e acrescentando atributos
 
 public class Carro {
     String cor;
     String modelo;
     int capacidadeTanque;
+
+    Carro () {
+
+    }
 
     // Método Construtor + 1ª Sobrecaga do método construtor
     Carro (String cor, String modelo, int capacidadeTanque) {
