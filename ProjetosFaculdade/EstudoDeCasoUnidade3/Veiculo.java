@@ -1,8 +1,7 @@
 package EstudoDeCasoUnidade3;
-public class Veículo {
+
+public class Veiculo {
     String placa;
     int ano;
-
-
 
 }
